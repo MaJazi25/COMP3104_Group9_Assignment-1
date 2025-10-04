@@ -1,1 +1,2 @@
 George Brown College is one of the largest colleges in Canada, offering a wide range of programs including Computer Programming and Analysis.
+George Brown has multiple campuses: Casa Loma, St. James, and Waterfront.
