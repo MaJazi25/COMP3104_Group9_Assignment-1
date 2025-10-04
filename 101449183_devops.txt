@@ -1,1 +1,2 @@
 COMP 2156 DevOps introduces students to version control, automation, and CI/CD practices.
+The course covers Git, GitHub, Docker, and build/test pipelines.
