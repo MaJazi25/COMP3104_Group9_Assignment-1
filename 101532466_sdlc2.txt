@@ -1,2 +1,3 @@
 DevOps improves teamwork between developers and operations teams.
 - Developers and operations share responsibility for the final product.
+- Communication improves because teams work on the same pipeline.
