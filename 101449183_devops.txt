@@ -1,1 +1,1 @@
-COMP 2156 DevOps introduces students to concepts like CI/CD, automation, containerization, and version control with GitHub.
+COMP 2156 DevOps introduces students to version control, automation, and CI/CD practices.
