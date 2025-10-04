@@ -1,0 +1,3 @@
+DevOps plays an essential role in the Software Development Lifecycle (SDLC) for continuous improvement.
+It bridges development and operations, reducing delays and miscommunication.
+CI/CD ensures faster feedback, safer releases, and reliable builds.
