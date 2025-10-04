@@ -2,8 +2,8 @@
 # COMP3104_Group9_Assignment-1
 
 ## Group Members
+- [Mehdi Jazi](https://github.com/MaJazi25) – mehdi.jazi@georgebrown.ca 
 - [Adel Alhajhussain](https://github.com/AdelAlhajHussein) – adel.alhajhussein@georgebrown.ca  
-- [Mehdi Jazi](https://github.com/MaJazi25) – mehdi.jazi@georgebrown.ca  
 - [Sueda Eser](https://github.com/101442502) – Sueda.Eser@georgebrown.ca  
 
 ## Project Description
