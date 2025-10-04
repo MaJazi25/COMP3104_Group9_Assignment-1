@@ -1,1 +1,2 @@
 DevOps in SDLC makes software development faster and more reliable.
+- DevOps allows continuous integration so code is tested often.
