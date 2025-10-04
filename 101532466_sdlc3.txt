@@ -1,0 +1,1 @@
+DevOps adds automation which reduces errors in the software lifecycle.
