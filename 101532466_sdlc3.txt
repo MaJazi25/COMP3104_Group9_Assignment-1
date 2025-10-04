@@ -1,1 +1,2 @@
 DevOps adds automation which reduces errors in the software lifecycle.
+- Automation helps detect problems earlier in the lifecycle.
