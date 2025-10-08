@@ -1,0 +1,11 @@
+Reference from google
+Course Code: COMP 3104
+Program: George Brown College (GBC) T177 program
+Focus: DevOps, end-to-end web application development
+Topics:
+Management tools (Jira, Trello)
+Testing tools (TestRail, Charles Proxy, Apache JMeter)
+Database tools (Microsoft SQL Server, MySQL)
+API testing tools (Postman, Swagger)
+Web tools (HTML, CSS, JavaScript editors)
+Version control (Git)
