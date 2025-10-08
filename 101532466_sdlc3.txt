@@ -1,4 +1,4 @@
 DevOps adds automation which reduces errors in the software lifecycle.
 - Automation enables early detection of problems throughout the development lifecycle.
-- Automated testing minimizes human errors and increases efficiency by saving time.
+- Automated testing minimizes human errors and increases efficiency by saving time.(updated)
 Summary: DevOps in SDLC increases speed, improves collaboration, reduces errors, and delivers better software.
