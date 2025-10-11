@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+# COMP3104_Group9_Assignment1
+=======
 # COMP3104_Group9_Assignment-1
 
 ## Group Members
@@ -24,3 +27,4 @@ It demonstrates our understanding of DevOps practices such as version control, b
    ```bash
    git clone https://github.com/MaJazi25/COMP3104_Group9_Assignment-1.git
    cd COMP3104_Group9_Assignment-1
+>>>>>>> origin/main

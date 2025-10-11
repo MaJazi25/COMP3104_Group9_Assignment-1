@@ -1,0 +1,6 @@
+DevOps in SDLC makes software development faster and more reliable.
+- DevOps enables continuous integration, ensuring that code is tested frequently.
+- Continuous delivery ensures that new features are released to users quickly and efficiently.
+- Monitoring tools in DevOps help maintain system stability and performance after deployment.
+
+// Update for commit screenshot
