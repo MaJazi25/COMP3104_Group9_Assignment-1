@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# COMP3104_Group9_Assignment1
-=======
+
 # COMP3104_Group9_Assignment-1
 
 ## Group Members
